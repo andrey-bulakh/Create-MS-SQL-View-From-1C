@@ -1,2 +1,2 @@
 # Create View From 1C
-Внешняя обработка которая позволяет формировать View SQL с понятными именами и использовать данные в различных внешних системах 
+External processing that allows you to form View SQL with clear names and use data in various external systems
